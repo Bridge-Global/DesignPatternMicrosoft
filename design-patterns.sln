@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009 - Behavioral - ChainOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0011 - Behavioral - Strategy pattern", "Strategy Design Pattern\0011 - Behavioral - Strategy pattern.csproj", "{2C0717A4-9EDD-4C36-8922-9356C7859EB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0008 - Strucural - Proxy Pattern", "Proxy Pattern\0008 - Strucural - Proxy Pattern.csproj", "{FDCFC710-255B-49B5-A379-3F8B37257FC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0007 - Strucural - Proxy Pattern", "Proxy Pattern\0007 - Strucural - Proxy Pattern.csproj", "{FDCFC710-255B-49B5-A379-3F8B37257FC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0005 - Structural - Adapter pattern robot example", "Adapter Pattern Robort Example\0005 - Structural - Adapter pattern robot example.csproj", "{23AD8EDC-4F08-4976-9C14-C389EECC1DA3}"
 EndProject
