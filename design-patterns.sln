@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001 - Creational - Factory Pattern", "Factory Method Design pattern\Realworld\0001 - Creational - Factory Pattern.csproj", "{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0002 - Creational - Abstract Factory Pattern - 1", "Abstract Factory pattern\0002 - Creational - Abstract Factory Pattern - 1.csproj", "{2AB9D985-9BE9-4DA0-8E02-85301DCE2025}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003 - Creational - Abstract Factory Pattern - 2", "Abstract Factory pattern - 2\0003 - Creational - Abstract Factory Pattern - 2.csproj", "{51CE2DB4-8ADE-405A-AC09-7DFB3326D60A}"
@@ -25,16 +23,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0005 - Structural - Adapter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0005 - Structural - Adapter - PAN Adhaar Import", "Adapter Desig Pattern\0005 - Structural - Adapter - PAN Adhaar Import.csproj", "{7CE4AA96-6CE7-465B-82C8-7D5EEB855EEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001 - Creational - Factory Pattern", "Factory Method Design pattern\0001 - Creational - Factory Pattern.csproj", "{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2AB9D985-9BE9-4DA0-8E02-85301DCE2025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2AB9D985-9BE9-4DA0-8E02-85301DCE2025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AB9D985-9BE9-4DA0-8E02-85301DCE2025}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -75,6 +71,10 @@ Global
 		{7CE4AA96-6CE7-465B-82C8-7D5EEB855EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE4AA96-6CE7-465B-82C8-7D5EEB855EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE4AA96-6CE7-465B-82C8-7D5EEB855EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6C0D31-2934-4FE5-A7EC-FB569420D9F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
