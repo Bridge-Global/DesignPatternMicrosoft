@@ -5,6 +5,5 @@ Factory inside factory
 
 DB Connection choosing example
 ------------------------------
-The code shows how we can choose database connection object from two different db providers
+Here we are explaining how we can choose a database connection object from two different db providers
 
-.

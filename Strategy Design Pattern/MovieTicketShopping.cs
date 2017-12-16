@@ -11,7 +11,6 @@
         public double BillAmount
         {
             get { return 250; }
-            set { }
         }
 
         public IDiscountStrategy CurrentDiscountStrategy { get; set; }
